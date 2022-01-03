@@ -23,7 +23,8 @@
 
 #### About Me:
 
-I am responsible when it is relaiting to my work duties. 
+I am responsible when it is relating to my work duties. I try to upgrade the work process for habit tasks. I will be a good teammate for friendly and responsible team.
+
 
 ---
 
@@ -59,7 +60,8 @@ CV project - [Stage 1 -CV#1. Markdown & Git]
 #### Education:
 
 1. Russian State University of Oil and Gas - branch in the Tashkent city.
-
+2. Proffesional informatic college in the Tashkent city
+3. Online course of C++ learning
 ---
 
 #### Language skills:
