@@ -1,3 +1,3 @@
 # rsschool-cv
-[My.CV](https://github.com/qoolebyaqa/rsschool-cv/blob/gh-pages/CV.md)
+[My.CV](https://qoolebyaqa.github.io/rsschool-cv/cv)
 

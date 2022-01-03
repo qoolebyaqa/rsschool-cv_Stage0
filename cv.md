@@ -53,7 +53,7 @@ a * b
 #### Experience:
 
 CV project - [Stage 1 -CV#1. Markdown & Git] 
-(https://github.com/qoolebyaqa/rsschool-cv/blob/gh-pages/CV.md)
+(https://qoolebyaqa.github.io/rsschool-cv/cv)
 
 ---
 
