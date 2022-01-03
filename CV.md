@@ -68,4 +68,4 @@ CV project - [Stage 1 -CV#1. Markdown & Git]
 
 + Russian - native
 
-+ English level is B1
++ English level is B1. I worked in the contract administration and had some experience of business english with suppliers from different European countries. But i think it was not enough.
