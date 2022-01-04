@@ -10,9 +10,12 @@ body {
   }
   }
   .container {
-    max-width: 1440px;
-    margin: 0 auto;
+    background-color: rgb(217, 228, 214);
+    margin: 0;
+    border: 0;
+    padding: 0;
   }
+
   .section{
     height: 350px;
     width: 350px;
@@ -25,6 +28,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    background-color: rgb(240, 240, 240);
   }
 
   .nav-list {
@@ -42,29 +46,12 @@ body {
   .logo_pos{
     display: flex;
     justify-content: space-between;
+    background-color: rgb(217, 228, 214);
 
   }
   a:hover {
     color: red;
   }
-/*   .section-item a {
-    color: #829985;
-    text-decoration: none;  
-    transition: color 0.5s;
-  }
-/*     .main-container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-   */
-/*   .section {
-    width: 50%;
-  } */
-/*   @media (max-width: 768px) {
-    .section {
-      width: 100%;
-    }
-  } */
   html {
     scroll-behavior: smooth; 
   }
