@@ -9,7 +9,10 @@ body {
     width: 100%;
   }
   }
-  #text{
+  #center1{
+    text-align: center;
+  }
+  #center2{
     text-align: center;
   }
  
