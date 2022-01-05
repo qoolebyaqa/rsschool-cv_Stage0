@@ -9,6 +9,10 @@ body {
     width: 100%;
   }
   }
+  #text{
+    text-align: center;
+  }
+ 
   .container {
     background-color: rgb(217, 228, 214);
     margin: 0;
